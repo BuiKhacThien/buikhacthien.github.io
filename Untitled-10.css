@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+.content{
+	background-color: antiquewhite;
+	height: 2450px;
+}
+.footer{
+	background-color: antiquewhite;
+	padding: 20px 0px;
+	text-align: center;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.canle2ben{
+	padding: 0px 10%;
+}
+.nav{
+	background-color: #36384c;
+	height:80px;
+	padding-left: 20px;
+}
+.nav li{
+	display: inline;
+	padding: 29px 40px;
+	color: white;
+	font-size: 18px;
+}
+.nav img{
+	float: left;
+}
+.nav ul{
+	float: right;
+	padding-top: 30px;
+}
+.noidung1{
+	background-image: url("coffee-983955_1920.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+	text-align: center;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.noidung1 h1{
+	color: black;
+	font-size: 80px;
+	padding-top: 150px;
+}
+.noidung1 h3{
+	color: black;
+	font-size: 40px;
+}
+.anh1{
+	background-image: url("coffee-1580595_640.jpg");
+}
+.anh2{
+	background-image: url("people-2588594_640.jpg");
+}
+.anh3{
+	background-image: url("coffee-2306471_640.jpg");
+}
+.anh4{
+	background-image: url("coffee-2714970_640.jpg");
+}
+.item{
+	width: 20%;
+	height: 100%;
+}
+.noidung2 img{
+	height: 220px;
+	width: 20%;
+}
+.noidung2{
+	padding: 100px;
+}
+.noidung2 p{
+	padding: 2% 0px;
+}
+.bsthinhanh{
+	text-align: center;
+}
+.noidung3{
+	background-color: #36384e;
+	position: relative;
+	color: white;
+	padding: 100px;;
+}
+.noidung3 p{
+	padding: 2% 0;
+}
+.hinhbentrai{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.hinhbenphai{
+	text-align: center;
+}
+.hinhbentrai img{
+	height: 250px;
+}
+.hinhbenphai img{
+	height: 250px;
+}
+.noidung4 img{
+	float: left;
+	width: 50%;
+}
+.noidung4 h1{
+	padding-top: 5%;
+}
+.giolamviec{
+	float: right;
+	padding-right: 25%
+}
+.noidung4{
+	height: 610px;
+}
